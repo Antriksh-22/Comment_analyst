@@ -1,11 +1,9 @@
 from dotenv import load_dotenv
-load_dotenv()
 import plotly.express as px
 import streamlit as st
 import torch
 import pickle
 import google.generativeai as genai
-import streamlit as st
 import os
 
 from transformers import (
@@ -17,7 +15,11 @@ from transformers import (
 # GEMINI CONFIG
 # =====================================================
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+try:
+    GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+except:
+    load_dotenv()
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 genai.configure(api_key=GEMINI_API_KEY)
 
