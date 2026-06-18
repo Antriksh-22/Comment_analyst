@@ -1,0 +1,18 @@
+comment,intent,priority,team
+Where is my order?     ,order_management,LOW,customer_support
+I have not received my refund   ,refund_return,HIGH,complaint_team
+How much does this Rudraksha cost?   ,product_inquiry,LOW,sales_team
+Great product thank you     ,feedback,LOW,customer_support
+Help me reset my account password   ,account_issue,LOW,customer_support
+This is fraud and I want my money back,refund_return,HIGH,complaint_team
+My shipment has not arrived yet   ,shipping_delivery,LOW,customer_support
+Can I change my delivery address?   ,shipping_delivery,LOW,customer_support
+The payment failed but money was deducted  ,payment_issue,LOW,customer_support
+I want to return this item   ,order_management,LOW,customer_support
+What is the price of the 7 Mukhi Rudraksha?,product_inquiry,LOW,sales_team
+Thank you for the fast delivery   ,feedback,LOW,customer_support
+I forgot my account password    ,account_issue,LOW,customer_support
+My order was cancelled automatically    ,order_management,LOW,customer_support
+The product arrived damaged     ,order_management,HIGH,customer_support
+Can I get a refund for my order? ,refund_return,HIGH,complaint_team
+How long will shipping take?    ,shipping_delivery,LOW,customer_support

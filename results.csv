@@ -1,0 +1,31 @@
+﻿,comment,intent,priority,team
+0,Where is my order?,order_management,LOW,customer_support
+1,I have not received my refund,refund_return,HIGH,complaint_team
+2,How much does this Rudraksha cost?,product_inquiry,LOW,sales_team
+3,Great product thank you,feedback,LOW,customer_support
+4,Help me reset my account password,account_issue,LOW,customer_support
+5,This is fraud and I want my money back,refund_return,HIGH,complaint_team
+6,My shipment has not arrived yet,shipping_delivery,LOW,customer_support
+7,Can I change my delivery address?,shipping_delivery,LOW,customer_support
+8,The payment failed but money was deducted,payment_issue,LOW,customer_support
+9,I want to return this item,order_management,LOW,customer_support
+10,What is the price of the 7 Mukhi Rudraksha?,product_inquiry,LOW,sales_team
+11,Thank you for the fast delivery,feedback,LOW,customer_support
+12,I forgot my account password,account_issue,LOW,customer_support
+13,My order was cancelled automatically,order_management,LOW,customer_support
+14,The product arrived damaged,order_management,HIGH,customer_support
+15,Can I get a refund for my order?,refund_return,HIGH,complaint_team
+16,How long will shipping take?,shipping_delivery,LOW,customer_support
+17,I want to buy a Rudraksha mala,product_inquiry,LOW,sales_team
+18,Your service is excellent,customer_support,LOW,customer_support
+19,I am unable to login to my account,account_issue,LOW,customer_support
+20,This looks like a scam,customer_support,HIGH,customer_support
+21,My refund is taking too long,refund_return,HIGH,complaint_team
+22,Can someone help me track my order?,order_management,LOW,customer_support
+23,The parcel was delivered to the wrong address,shipping_delivery,LOW,customer_support
+24,What payment methods do you accept?,payment_issue,LOW,customer_support
+25,I received a defective product,order_management,LOW,customer_support
+26,Can I update my shipping information?,shipping_delivery,LOW,customer_support
+27,The checkout page is not working,account_issue,LOW,customer_support
+28,Amazing product quality,order_management,LOW,customer_support
+29,Please cancel my order ,order_management,LOW,customer_support
