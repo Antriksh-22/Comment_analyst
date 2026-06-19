@@ -2,7 +2,7 @@
 
 <img width="2220" height="2601" alt="image" src="https://github.com/user-attachments/assets/662bea0e-8097-41a0-98f8-7a44d20875b9" />
 
-# Comment Analyzer: Instagram & Facebook Comment Management System
+# Comment Analyzer: Comment Management System
 
 An AI-powered customer support automation system for **Instagram and Facebook comments/messages**.  
 It classifies customer queries, detects priority, routes them to the right team, and generates reply suggestions using a fine-tuned **DistilBERT** model and **Google Gemini**.
