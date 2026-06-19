@@ -23,6 +23,7 @@ Businesses receive a large number of comments and DMs every day:
 Manually handling everything is slow and inconsistent.  
 This project creates a practical workflow to **sort, classify, prioritize, and respond** to customer messages faster.
 
+Demo: https://commentanalyst.streamlit.app/
 ---
 
 ## Features
@@ -98,3 +99,4 @@ Team Routing
 Gemini Reply Generator
         ↓
 Analytics Dashboard / CSV Export
+
